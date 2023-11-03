@@ -15,9 +15,10 @@ um logo ao lado *EM NEGRITO E DANDO
 Ao final da lista você deve colocar o valor total
 dos produtos também em negrito e ênfase.
 
-Exemplo de lista:
-Café - R$ 15,00
-Bolo de chocolate - R$ 12,00
-Energético - R$ 8,00
+*Exemplo de lista:*
 
-Total - R$ 35,00
+Café - *R$ 15,00*
+Bolo de chocolate - *R$ 12,00*
+Energético - *R$ 8,00*
+
+Total - *R$ 35,00*
